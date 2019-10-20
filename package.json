@@ -1,0 +1,26 @@
+{
+  "name": "keyspecs.com",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next": "9.1.1",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.1",
+    "@types/react": "^16.9.9",
+    "autoprefixer": "^9.6.5",
+    "postcss-easy-import": "^3.0.0",
+    "postcss-loader": "^3.0.0",
+    "tailwindcss": "^1.1.2",
+    "typescript": "^3.6.4"
+  }
+}
